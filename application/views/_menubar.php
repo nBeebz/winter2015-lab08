@@ -7,4 +7,6 @@
     {menudata}
     <li><a href="{link}">{name}</a></li>
     {/menudata}
+    <li>{username}</li>
 </ul>
+
